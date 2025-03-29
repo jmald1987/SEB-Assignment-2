@@ -163,8 +163,17 @@ footer {
     left: 0;
     display: flex;
     align-items: flex-start;
-    padding: 0;
+    padding-top: 5px;
+    margin-top: 5px;;
+    overflow: hidden;
 }
+
+form{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
 
 #modal {
     display: none;
